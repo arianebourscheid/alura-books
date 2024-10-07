@@ -53,6 +53,10 @@
         width: 35%;
     }
 
+    .banner__pesquisa:hover {
+        background-color: var(--hover-azul);
+    }
+
     .banner__pesquisa::placeholder {
         background-position: 12em;
     }
