@@ -130,4 +130,12 @@
         margin-left: 3em;
     }
 
+    .botões__ancora:hover {
+        background-color: var(--hover-laranja);
+    }
+
+    .botões__item:hover {
+        border: solid 0.15em var(--branco);
+    }
+
 }
