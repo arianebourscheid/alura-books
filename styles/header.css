@@ -165,4 +165,16 @@
     .container__texto {
         display: block;
     }
+
+    .opções__link:hover {
+        color: var(--laranja);
+    }
+
+    .opções__item:hover {
+        color: var(--laranja);
+    }
+
+    .container__link:hover {
+        color: var(--laranja);
+    }
 }
