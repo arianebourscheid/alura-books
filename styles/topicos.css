@@ -43,4 +43,8 @@
     .tópicos {
         padding: 3em 30vw;
     }
+
+    .tópicos__link:hover {
+        background-color: var(--hover-laranja);
+    }
 }
